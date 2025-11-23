@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I'm Gustaf, a third-year Computer Science student at LTH!
+I'm Gustaf, a fourth-year Computer Science student at LTH!
 
 - 🌱 I'm currently working on my new app *Guess My Wrap*, using **Swift, FireBase and JavaScript**
 - 📱 I recently released my app *Find the Fraud!* to the app store, check it out [here!](https://apps.apple.com/se/app/find-the-fraud/id6723889471)
